@@ -4,8 +4,8 @@ The Novel Coronavirus (Covid19), a virus that has effected approximately 3 Milli
 
 - The analysis was performed by gathering related datasets of four (4) different formats: .xml, .json, .csv and web scrapped data.
 - **Pre-processing**: web-scrapping data off the two websites, extracted XML data, stored these data into mongoDB, cleaned and saved the processed data into PostgreSQL
-  - https://www.worldometers.info/coronavirus/
-  - https://data.medicare.gov/widgets/xubh-q36u
+  - Wesbsite 1: https://www.worldometers.info/coronavirus/
+  - Wesbsite 2: https://data.medicare.gov/widgets/xubh-q36u
   - CSV Dataset: https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
   - XML dataset: https://opendata.ecdc.europa.eu/covid19/casedistribution/xml/
   - JSON dataset: https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
