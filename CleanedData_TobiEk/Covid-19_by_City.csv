@@ -1,0 +1,427 @@
+ID,age,sex,city,province,country,latitude,longitude,date_onset_symptoms,date_admission_hospital,date_confirmation,lives_in_Wuhan,symptoms
+1,30-39,male,"Chaohu City, Hefei City",Anhui,China,31.64696,117.7166,18/01/2020,20/01/2020,22/01/2020,yes,N/A
+2,40-49,male,"Baohe District, Hefei City",Anhui,China,31.77863,117.3319,10/01/2020,21/01/2020,23/01/2020,no,N/A
+3,40-49,male,"High-Tech Zone, Hefei City",Anhui,China,31.828313,117.224844,15/01/2020,20/01/2020,23/01/2020,no,N/A
+4,40-49,female,"High-Tech Zone, Hefei City",Anhui,China,31.828313,117.224844,17/01/2020,20/01/2020,23/01/2020,no,N/A
+5,50-59,female,"Feidong County, Hefei City",Anhui,China,32.00123,117.5681,10/01/2020,21/01/2020,23/01/2020,no,N/A
+6,40-49,female,Fuyang City,Anhui,China,32.9188,115.7036,21/01/2020,21/01/2020,22/01/2020,no,fever
+7,50-59,female,Huainan City,Anhui,China,32.75738,116.734,19/01/2020,24/01/2020,26/01/2020,yes,fever
+8,30-39,male,Hefei City,Anhui,China,31.79444,117.3428,17/01/2020,22/01/2020,23/01/2020,yes,N/A
+9,30-39,female,Chizhou City,Anhui,China,30.28525,117.3658,22/01/2020,22/01/2020,23/01/2020,yes,cough
+10,40-49,male,Bengbu City,Anhui,China,33.10901,117.326,21/01/2020,21/01/2020,27/01/2020,yes,fever
+11,30-39,male,Fengtai District,Beijing,China,39.8306,116.2499,14/01/2020,20/01/2020,21/01/2020,no,fever
+12,30-39,male,Haidian District,Beijing,China,40.02186,116.2285,09/01/2020,14/01/2020,21/01/2020,no,fever
+13,30-39,female,Haidian District,Beijing,China,40.02186,116.2285,17/01/2020,20/01/2020,21/01/2020,no,respiratory symptoms
+14,40-49,male,Shijingshan District,Beijing,China,39.92715,116.1737,19/01/2020,21/01/2020,22/01/2020,no,fever
+15,40-49,male,Shijingshan District,Beijing,China,39.92715,116.1737,19/01/2020,21/01/2020,23/01/2020,no,fever
+16,10-19,female,Tongzhou District,Beijing,China,39.80292,116.7363,19/01/2020,20/01/2020,21/01/2020,yes,"fever, respiratory symptoms"
+17,50-59,female,Xicheng District,Beijing,China,39.91093,116.3591,16/01/2020,20/01/2020,21/01/2020,no,"fever, respiratory symptoms"
+18,40-49,male,Xicheng District,Beijing,China,39.91093,116.3591,20/01/2020,20/01/2020,22/01/2020,no,fever
+23,40-49,female,Wushan County,Chongqing,China,31.11774,109.8962,15/01/2020,15/01/2020,21/01/2020,N/A,"fatigue, fever"
+24,40-49,female,Ningde City,Fujian,China,26.97674,119.4745,21/01/2020,21/01/2020,23/01/2020,N/A,N/A
+25,40-49,male,Lanzhou City,Gansu,China,36.35126,103.6554,18/01/2020,21/01/2020,23/01/2020,no,"discomfort, fever"
+26,20-29,male,Baiyin City,Gansu,China,36.61864,104.6208,16/01/2020,22/01/2020,23/01/2020,yes,"cough, fever, headache, muscular soreness, weak"
+27,40-49,male,Foshan City,Guangdong,China,23.0131,112.9444,10/01/2020,20/01/2020,22/01/2020,no,"cough, dizziness"
+28,60-69,male,Shenzhen City,Guangdong,China,22.65389,114.1291,04/01/2020,10/01/2020,19/01/2020,no,"cough, fatigue, fever, weakness"
+29,60-69,female,Shenzhen City,Guangdong,China,22.65389,114.1291,03/01/2020,10/01/2020,21/01/2020,no,"cough, fever, weakness"
+30,30-39,male,Shenzhen City,Guangdong,China,22.65389,114.1291,01/01/2020,11/01/2020,21/01/2020,no,"cough, diarrhea, fever, rhinorrhoea, sneezing"
+31,60-69,female,Shenzhen City,Guangdong,China,22.65389,114.1291,08/01/2020,15/01/2020,21/01/2020,no,"anhelation, cough, fever, pleural effusion, weakness"
+32,30-39,female,Shenzhen City,Guangdong,China,22.65389,114.1291,02/01/2020,11/01/2020,21/01/2020,no,"diarrhea, fever, nasal congestion, pleuritic chest pain, sore throat"
+33,60-69,female,Zhuhai City,Guangdong,China,22.16925,113.361,13/01/2020,19/01/2020,21/01/2020,no,cough
+34,60-69,female,Beihai City,Guangxi,China,21.67666,109.328,16/01/2020,17/01/2020,22/01/2020,yes,N/A
+35,60-69,male,Beihai City,Guangxi,China,21.67666,109.328,14/01/2020,21/01/2020,22/01/2020,yes,"cough, fever"
+36,60-69,female,Beihai City,Guangxi,China,21.67666,109.328,09/01/2020,21/01/2020,22/01/2020,yes,"cough, fever"
+37,40-49,male,Liuzhou City,Guangxi,China,24.95009,109.371,21/01/2020,21/01/2020,22/01/2020,yes,fever
+38,40-49,male,Wuzhou City,Guangxi,China,23.48172,110.9909,20/01/2020,21/01/2020,22/01/2020,no,fever
+39,30-39,male,Guilin City,Guangxi,China,25.35865,110.5145,19/01/2020,22/01/2020,24/01/2020,yes,"cough, fever"
+40,40-49,male,Guilin City,Guangxi,China,25.35865,110.5145,20/01/2020,23/01/2020,24/01/2020,yes,fever
+41,70-79,female,Beihai City,Guangxi,China,21.67666,109.328,19/01/2020,19/01/2020,24/01/2020,yes,"fever, weak"
+42,20-29,female,Beihai City,Guangxi,China,21.67666,109.328,22/01/2020,22/01/2020,24/01/2020,yes,"cough, fever, muscular soreness"
+43,50-59,male,Beihai City,Guangxi,China,21.67666,109.328,22/01/2020,22/01/2020,24/01/2020,yes,"cough, fever"
+44,30-39,female,Baise City,Guangxi,China,23.98862,106.2863,19/01/2020,21/01/2020,24/01/2020,yes,fever
+45,40-49,female,Hechi City,Guangxi,China,24.64574,107.8409,21/01/2020,22/01/2020,24/01/2020,yes,"chest distress, cough, expectoration, muscular soreness"
+46,30-39,male,Hechi City,Guangxi,China,24.64574,107.8409,19/01/2020,21/01/2020,24/01/2020,no,"cough, headache"
+47,0-9,female,Hechi City,Guangxi,China,24.64574,107.8409,22/01/2020,23/01/2020,24/01/2020,yes,"fever, sneeze"
+48,20-29,male,Fangchenggang City,Guangxi,China,21.88401,107.9967,23/01/2020,23/01/2020,24/01/2020,no,discomfort
+49,60-69,male,Fangchenggang City,Guangxi,China,21.88401,107.9967,15/01/2020,23/01/2020,24/01/2020,no,"cough, muscular stiffness, weak"
+50,60-69,male,Yulin City,Guangxi,China,22.44296,110.182,21/01/2020,22/01/2020,24/01/2020,yes,fever
+51,20-29,male,"Guiding County, Qiannan Prefecture",Guizhou,China,26.43055,107.1928,18/01/2020,18/01/2020,22/01/2020,no,discomfort
+52,50-59,female,Tongren City,Guizhou,China,27.97374,108.5408,14/01/2020,21/01/2020,22/01/2020,no,fever
+53,70-79,male,Shijiazhuang City,Hebei,China,38.13361,114.4384,19/01/2020,19/01/2020,23/01/2020,yes,"cough, fever"
+54,40-49,male,Harbin City,Heilongjiang,China,45.64657,127.9588,22/01/2020,22/01/2020,23/01/2020,no,"cough, expectoration, fever"
+55,50-59,male,Zhengzhou City,Henan,China,34.62931,113.468,11/01/2020,11/01/2020,22/01/2020,no,N/A
+56,30-39,male,Hong Kong,Hong Kong,China,22.38074,114.1324,21/01/2020,21/01/2020,22/01/2020,yes,"cough, fever"
+57,50-59,male,Hong Kong,Hong Kong,China,22.38074,114.1324,18/01/2020,21/01/2020,22/01/2020,no,fever
+58,30-39,male,Suzhou City,Jiangsu,China,31.37802,120.6418,10/01/2020,10/01/2020,22/01/2020,no,fever
+59,50-59,male,"Xiangdong District, Pingxiang City",Jiangxi,China,27.50699,113.7218,10/01/2020,10/01/2020,21/01/2020,yes,"cough, fever"
+60,20-29,male,Ganzhou City,Jiangxi,China,25.71368,115.2745,21/01/2020,21/01/2020,24/01/2020,yes,"fever, weak"
+61,40-49,female,Ganzhou City,Jiangxi,China,25.71368,115.2745,22/01/2020,22/01/2020,24/01/2020,yes,"cough, fever"
+62,40-49,female,Changchun City,Jilin,China,44.38803,125.769,19/01/2020,19/01/2020,23/01/2020,N/A,"cough, fever"
+63,30-39,male,Dalian City,Liaoning,China,39.59944,122.2224,11/01/2020,17/01/2020,22/01/2020,yes,"cough, fever"
+64,40-49,male,Shenyang City,Liaoning,China,42.10012,123.1391,14/01/2020,19/01/2020,22/01/2020,no,"cough, fever, soreness"
+65,50-59,female,Shenyang City,Liaoning,China,42.10012,123.1391,16/01/2020,22/01/2020,23/01/2020,no,pharynx
+66,40-49,male,Chaoyang City,Liaoning,China,41.51421,120.0166,19/01/2020,22/01/2020,23/01/2020,no,muscular soreness
+67,20-29,male,Yinchuan City,Ningxia Hui,China,38.2349,106.3496,19/01/2020,19/01/2020,22/01/2020,yes,N/A
+68,20-29,male,Zhongwei City,Ningxia Hui,China,37.0548,105.4777,21/01/2020,21/01/2020,23/01/2020,no,fever
+69,20-29,male,Xi'an City,Shaanxi,China,34.10727,108.7872,20/01/2020,21/01/2020,23/01/2020,no,fever
+70,30-39,female,Xi'an City,Shaanxi,China,34.10727,108.7872,16/01/2020,20/01/2020,23/01/2020,no,fever
+71,40-49,male,Xianyang City,Shaanxi,China,34.78867,108.3897,20/01/2020,21/01/2020,23/01/2020,no,fever
+72,20-29,male,Yan'an City,Shaanxi,China,36.44222,109.3161,22/01/2020,22/01/2020,24/01/2020,N/A,N/A
+73,40-49,male,Ankang City,Shaanxi,China,32.76183,108.9258,19/01/2020,21/01/2020,24/01/2020,no,N/A
+74,30-39,male,Weihai City,Shandong,China,37.12174,121.9821,20/01/2020,20/01/2020,22/01/2020,no,fever
+75,60-69,female,Linyi City,Shandong,China,35.31235,118.2809,21/01/2020,21/01/2020,22/01/2020,no,fever
+76,60-69,male,Linyi City,Shandong,China,35.31235,118.2809,21/01/2020,21/01/2020,22/01/2020,no,fever
+78,20-29,female,Chengdu City,Sichuan,China,30.70291,103.8256,19/01/2020,19/01/2020,22/01/2020,N/A,fever
+79,50-59,male,Chengdu City,Sichuan,China,30.70291,103.8256,18/01/2020,18/01/2020,23/01/2020,no,"cough, dyspnea, fever"
+80,40-49,male,Chengdu City,Sichuan,China,30.70291,103.8256,18/01/2020,18/01/2020,23/01/2020,no,fever
+81,30-39,male,Dazhou City,Sichuan,China,31.37014,107.6465,18/01/2020,20/01/2020,23/01/2020,no,"fatigue, fever"
+82,20-29,female,Tianjin City,Tianjin,China,39.29713,117.3333,24/01/2020,24/01/2020,24/01/2020,N/A,fever
+83,40-49,male,Urumqi City,Xinjiang,China,43.73043,87.78531,20/01/2020,20/01/2020,23/01/2020,yes,"fever, sore muscle, weakness"
+84,50-59,male,Urumqi City,Xinjiang,China,43.73043,87.78531,19/01/2020,19/01/2020,23/01/2020,no,"fever, sore muscle, weakness"
+85,50-59,male,Kunming City,Yunnan,China,25.39236,102.8739,16/01/2020,22/01/2020,23/01/2020,yes,"cough, fever"
+86,30-39,female,Xishuangbanna Prefecture,Yunnan,China,21.93139,100.9477,18/01/2020,22/01/2020,24/01/2020,N/A,"systemic weakness, runny nose, fever"
+87,40-49,male,Wenzhou City,Zhejiang,China,27.90538,120.4404,04/01/2020,04/01/2020,21/01/2020,yes,fever
+88,40-49,male,Wenzhou City,Zhejiang,China,27.90538,120.4404,04/01/2020,17/01/2020,21/01/2020,yes,fever
+89,40-49,female,"Feidong County, Hefei City",Anhui,China,32.00123,117.5681,15/01/2020,21/01/2020,24/01/2020,no,N/A
+90,50-59,male,"Feidong County, Hefei City",Anhui,China,32.00123,117.5681,17/01/2020,21/01/2020,24/01/2020,no,N/A
+91,30-39,male,"Lujiang County, Hefei City",Anhui,China,31.26968,117.32,19/01/2020,22/01/2020,25/01/2020,no,N/A
+92,50-59,male,"Yaohai District, Hefei City",Anhui,China,31.89544,117.3384,18/01/2020,18/01/2020,25/01/2020,N/A,N/A
+93,30-39,male,Hefei City,Anhui,China,31.79444,117.3428,22/01/2020,22/01/2020,25/01/2020,yes,N/A
+94,20-29,male,Hefei City,Anhui,China,31.79444,117.3428,17/01/2020,21/01/2020,25/01/2020,yes,N/A
+95,30-39,male,"Lujiang County, Hefei City",Anhui,China,31.26968,117.32,23/01/2020,24/01/2020,25/01/2020,yes,N/A
+96,20-29,female,Fuyang City,Anhui,China,32.9188,115.7036,22/01/2020,22/01/2020,24/01/2020,yes,fever
+97,50-59,male,Fuyang City,Anhui,China,32.9188,115.7036,22/01/2020,22/01/2020,24/01/2020,no,N/A
+98,40-49,male,Fuyang City,Anhui,China,32.9188,115.7036,23/01/2020,23/01/2020,25/01/2020,yes,fever
+99,20-29,male,Fuyang City,Anhui,China,32.9188,115.7036,21/01/2020,23/01/2020,25/01/2020,yes,"fever, sore throat"
+100,50-59,male,Bozhou City,Anhui,China,33.43671,116.1808,18/01/2020,21/01/2020,25/01/2020,yes,"fever, muscular soreness, rigor"
+101,30-39,male,Bozhou City,Anhui,China,33.43671,116.1808,20/01/2020,22/01/2020,25/01/2020,yes,"chills, diarrhea, dyspnea, headache, lack of energy, muscle pain"
+102,50-59,male,Bozhou City,Anhui,China,33.43671,116.1808,19/01/2020,21/01/2020,25/01/2020,yes,"cough, fever"
+103,60-69,male,Bozhou City,Anhui,China,33.43671,116.1808,18/01/2020,22/01/2020,25/01/2020,yes,"cough, fatigue, fever"
+104,30-39,male,Bozhou City,Anhui,China,33.43671,116.1808,19/01/2020,22/01/2020,25/01/2020,no,fever
+105,20-29,female,Bozhou City,Anhui,China,33.43671,116.1808,21/01/2020,23/01/2020,25/01/2020,yes,"fever, pharyngalgia"
+111,60-69,female,Xi'an City,Shaanxi,China,34.10727,108.7872,10/01/2020,20/01/2020,25/01/2020,yes,pneumonitis
+112,20-29,male,Ankang City,Shaanxi,China,32.76183,108.9258,21/01/2020,23/01/2020,25/01/2020,yes,pneumonia
+113,40-49,male,Ankang City,Shaanxi,China,32.76183,108.9258,14/01/2020,23/01/2020,25/01/2020,no,pneumonia
+114,60-69,female,Lingao County,Hainan,China,19.80185,109.7128,16/01/2020,20/01/2020,22/01/2020,N/A,"cough, discomfort, fever, other symptoms"
+115,40-49,male,Bordeaux,Nouvelle-Aquitaine,France,44.8378,-0.5792,23/01/2020,23/01/2020,24/01/2020,no,flu-like symptoms
+116,30-39,female,Paris,Ile-de-France,France,48.8566,2.3522,23/01/2020,24/01/2020,24/01/2020,yes,"chills, cough, fatigue, fever"
+117,30-39,male,Paris,Ile-de-France,France,48.8566,2.3522,19/01/2020,24/01/2020,24/01/2020,yes,"chills, conjunctivitis, cough, fever"
+118,40-49,male,Narita Airport,Tokyo,Japan,35.76528,140.3856,14/01/2020,20/01/2020,24/01/2020,yes,"fever, pneumonia, sore throat"
+121,30-39,male,Kathmandu,Province No.-3,Nepal,27.7172,85.324,09/01/2020,13/01/2020,24/01/2020,yes,"cough, fever, shortness of breath"
+122,30-39,female,Incheon Airport,Incheon,South Korea,37.462026,126.443389,18/01/2020,19/01/2020,20/01/2020,yes,"cough, fever"
+123,50-59,male,Gimpo Airport,Seoul,South Korea,37.558056,126.790556,10/01/2020,23/01/2020,24/01/2020,N/A,fever
+125,60-69,female,Bangkok,Bangkok Metropolis,Thailand,13.76658,100.5363,05/01/2020,08/01/2020,12/01/2020,yes,"chills, fever, headache, sore throat"
+126,30-39,male,Snohomish County,Washington,United States,48.04805,-121.697,16/01/2020,19/01/2020,20/01/2020,no,"cough, fever, nausea"
+127,60-69,male,Nha Trang,Khanh Hoa,Vietnam,12.2388,109.1967,17/01/2020,22/01/2020,23/01/2020,no,N/A
+128,20-29,male,Nha Trang,Khanh Hoa,Vietnam,12.2388,109.1967,20/01/2020,22/01/2020,23/01/2020,no,N/A
+129,30-39,male,Sydney,New South Wales,Australia,-32.23834,147.0045,15/01/2020,15/01/2020,25/01/2020,N/A,N/A
+130,40-49,male,Sydney,New South Wales,Australia,-32.23834,147.0045,24/01/2020,24/01/2020,25/01/2020,N/A,N/A
+131,50-59,male,Sydney,New South Wales,Australia,-32.23834,147.0045,20/01/2020,20/01/2020,25/01/2020,N/A,N/A
+132,50-59,male,Seoul,Seoul,South Korea,37.56667,126.9667,22/01/2020,25/01/2020,26/01/2020,yes,"chills, fever"
+133,50-59,male,Toronto,Ontario,Canada,43.667256,-79.391815,22/01/2020,23/01/2020,25/01/2020,no,N/A
+135,40-49,male,Ma'anshan City,Anhui,China,31.62885,118.356,22/01/2020,22/01/2020,25/01/2020,yes,fever
+136,40-49,female,Ma'anshan City,Anhui,China,31.62885,118.356,19/01/2020,23/01/2020,25/01/2020,yes,fever
+137,50-59,female,Ma'anshan City,Anhui,China,31.62885,118.356,18/01/2020,22/01/2020,25/01/2020,yes,fever
+138,40-49,male,Ma'anshan City,Anhui,China,31.62885,118.356,22/01/2020,23/01/2020,25/01/2020,yes,fever
+139,50-59,male,Ma'anshan City,Anhui,China,31.62885,118.356,18/01/2020,24/01/2020,26/01/2020,no,fever
+140,40-49,female,Ma'anshan City,Anhui,China,31.62885,118.356,22/01/2020,24/01/2020,26/01/2020,yes,"cough, fever"
+141,40-49,female,Ma'anshan City,Anhui,China,31.62885,118.356,19/01/2020,22/01/2020,26/01/2020,yes,fever
+142,40-49,female,Fangchenggang City,Guangxi,China,21.88401,107.9967,23/01/2020,25/01/2020,26/01/2020,N/A,fever; fatigue; dry cough
+143,40-49,male,Hanzhong City,Shaanxi,China,33.0928,107.1014,18/01/2020,24/01/2020,26/01/2020,N/A,pneumonitis
+145,60-69,female,Hong Kong,Hong Kong,China,22.38074,114.1324,21/01/2020,25/01/2020,26/01/2020,no,"cough, fever"
+146,60-69,male,Hong Kong,Hong Kong,China,22.38074,114.1324,24/01/2020,25/01/2020,26/01/2020,N/A,fever
+147,60-69,male,Sihanoukville City,Sihanoukville,Cambodia,10.633333,103.5,26/01/2020,26/01/2020,27/01/2020,yes,"fever, runny nose"
+148,40-49,female,Bengbu City,Anhui,China,33.10901,117.326,24/01/2020,24/01/2020,27/01/2020,yes,fever
+149,50-59,male,Bengbu City,Anhui,China,33.10901,117.326,14/01/2020,19/01/2020,27/01/2020,no,fever
+150,30-39,male,Ankang City,Shaanxi,China,32.76183,108.9258,23/01/2020,23/01/2020,27/01/2020,no,pneumonia
+151,40-49,female,Ankang City,Shaanxi,China,32.76183,108.9258,22/01/2020,22/01/2020,27/01/2020,yes,pneumonia
+152,30-39,female,Ankang City,Shaanxi,China,32.76183,108.9258,end of December 2019,21/01/2020,27/01/2020,no,N/A
+153,20-29,male,Ankang City,Shaanxi,China,32.76183,108.9258,22/01/2020,24/01/2020,27/01/2020,yes,pneumonitis
+156,50-59,male,Pyeongtaek,Gyeonggi,South Korea,36.992236,127.112821,21/01/2020,25/01/2020,27/01/2020,N/A,"aching muscles, fever, pneumonia"
+157,20-29,male,Huainan City,Anhui,China,32.75738,116.734,22/01/2020,25/01/2020,26/01/2020,yes,dry cough
+158,40-49,female,"Feidong County, Hefei City",Anhui,China,32.00123,117.5681,17/01/2020,24/01/2020,27/01/2020,no,N/A
+159,40-49,male,"Feidong County, Hefei City",Anhui,China,32.00123,117.5681,24/01/2020,24/01/2020,27/01/2020,no,N/A
+162,30-39,male,Xi'an City,Shaanxi,China,34.10727,108.7872,25/01/2020,25/01/2020,28/01/2020,yes,pneumonitis
+163,20-29,male,Xi'an City,Shaanxi,China,34.10727,108.7872,21/01/2020,22/01/2020,28/01/2020,yes,pneumonitis
+164,40-49,female,Baoji City,Shaanxi,China,34.38244,107.2001,18/01/2020,18/01/2020,28/01/2020,no,pneumonitis
+165,50-59,male,Baoji City,Shaanxi,China,34.38244,107.2001,22/01/2020,25/01/2020,28/01/2020,no,pneumonitis
+166,30-39,female,Weinan City,Shaanxi,China,34.95553,109.8585,20/01/2020,26/01/2020,28/01/2020,yes,pneumonitis
+167,30-39,male,Weinan City,Shaanxi,China,34.95553,109.8585,20/01/2020,26/01/2020,28/01/2020,yes,pneumonitis
+168,30-39,female,Shangluo City,Shaanxi,China,33.6493,109.9016,25/01/2020,26/01/2020,28/01/2020,no,pneumonitis
+169,60-69,male,Hanzhong City,Shaanxi,China,33.0928,107.1014,22/01/2020,25/01/2020,28/01/2020,no,pneumonitis
+170,70-79,male,Xi'an City,Shaanxi,China,34.10727,108.7872,25/01/2020,26/01/2020,28/01/2020,no,pneumonitis
+171,20-29,male,Ankang City,Shaanxi,China,32.76183,108.9258,22/01/2020,25/01/2020,28/01/2020,yes,pneumonitis
+173,20-29,male,Hefei City,Anhui,China,31.79444,117.3428,22/01/2020,23/01/2020,28/01/2020,no,N/A
+174,20-29,male,Hefei City,Anhui,China,31.79444,117.3428,24/01/2020,25/01/2020,28/01/2020,no,N/A
+175,20-29,female,Hefei City,Anhui,China,31.79444,117.3428,25/01/2020,27/01/2020,28/01/2020,no,N/A
+176,20-29,male,Hefei City,Anhui,China,31.79444,117.3428,24/01/2020,25/01/2020,28/01/2020,no,N/A
+177,20-29,male,Hefei City,Anhui,China,31.79444,117.3428,22/01/2020,25/01/2020,28/01/2020,no,N/A
+178,20-29,male,Hefei City,Anhui,China,31.79444,117.3428,24/01/2020,25/01/2020,28/01/2020,no,N/A
+179,30-39,male,Hefei City,Anhui,China,31.79444,117.3428,22/01/2020,26/01/2020,28/01/2020,yes,N/A
+180,30-39,female,Hefei City,Anhui,China,31.79444,117.3428,23/01/2020,26/01/2020,28/01/2020,yes,N/A
+181,60-69,female,Hefei City,Anhui,China,31.79444,117.3428,23/01/2020,26/01/2020,28/01/2020,yes,N/A
+182,50-59,female,Hefei City,Anhui,China,31.79444,117.3428,24/01/2020,26/01/2020,28/01/2020,yes,N/A
+183,40-49,female,Hefei City,Anhui,China,31.79444,117.3428,23/01/2020,26/01/2020,28/01/2020,yes,N/A
+184,40-49,male,Hefei City,Anhui,China,31.79444,117.3428,21/01/2020,26/01/2020,28/01/2020,no,N/A
+185,50-59,female,Hefei City,Anhui,China,31.79444,117.3428,20/01/2020,22/01/2020,28/01/2020,no,N/A
+186,40-49,female,Xi'an City,Shaanxi,China,34.10727,108.7872,22/01/2020,23/01/2020,29/01/2020,no,N/A
+187,40-49,male,Hanzhong City,Shaanxi,China,33.0928,107.1014,21/01/2020,26/01/2020,29/01/2020,no,N/A
+188,20-29,male,Ankang City,Shaanxi,China,32.76183,108.9258,24/01/2020,26/01/2020,29/01/2020,yes,N/A
+189,20-29,male,Ankang City,Shaanxi,China,32.76183,108.9258,20/01/2020,20/01/2020,29/01/2020,yes,N/A
+190,40-49,male,Baoji City,Shaanxi,China,34.38244,107.2001,21/01/2020,22/01/2020,29/01/2020,yes,N/A
+191,60-69,male,Xi'an City,Shaanxi,China,34.10727,108.7872,18/01/2020,18/01/2020,29/01/2020,no,N/A
+192,0-9,female,Yan'an City,Shaanxi,China,36.44222,109.3161,27/01/2020,27/01/2020,29/01/2020,no,N/A
+193,40-49,female,Xi'an City,Shaanxi,China,34.10727,108.7872,23/01/2020,23/01/2020,29/01/2020,no,N/A
+194,40-49,male,Vancouver,British Columbia,Canada,49.25,-123.1,26/01/2020,26/01/2020,29/01/2020,N/A,N/A
+197,50-59,female,Hefei City,Anhui,China,31.79444,117.3428,18/01/2020,24/01/2020,29/01/2020,yes,N/A
+198,40-49,male,"Baohe District, Hefei City",Anhui,China,31.77863,117.3319,21/01/2020,26/01/2020,29/01/2020,no,N/A
+199,30-39,female,"Shushan District, Hefei City",Anhui,China,31.82562,117.2001,25/01/2020,25/01/2020,29/01/2020,no,N/A
+200,70-79,male,"Yaohai District, Hefei City",Anhui,China,31.89544,117.3384,24/01/2020,27/01/2020,29/01/2020,no,N/A
+201,20-29,female,"Feidong County, Hefei City",Anhui,China,32.00123,117.5681,25/01/2020,25/01/2020,29/01/2020,no,N/A
+202,10-19,female,"Feidong County, Hefei City",Anhui,China,32.00123,117.5681,26/01/2020,26/01/2020,29/01/2020,no,N/A
+203,20-29,male,"Chaohu City, Hefei City",Anhui,China,31.64696,117.7166,27/01/2020,28/01/2020,29/01/2020,yes,N/A
+215,50-59,male,Seoul,Seoul,South Korea,37.56667,126.9667,26/01/2020,27/01/2020,30/01/2020,no,N/A
+216,30-39,male,Seoul,Seoul,South Korea,37.56667,126.9667,26/01/2020,29/01/2020,30/01/2020,no,cough
+217,70-79,male,Hong Kong,Hong Kong,China,22.38074,114.1324,25/01/2020,29/01/2020,28/01/2020,yes,fever
+218,70-79,female,Hong Kong,Hong Kong,China,22.38074,114.1324,25/01/2020,29/01/2020,28/01/2020,yes,fever
+219,30-39,female,Hong Kong,Hong Kong,China,22.38074,114.1324,28/01/2020,30/01/2020,31/01/2020,N/A,cough
+220,70-79,male,Hong Kong,Hong Kong,China,22.38074,114.1324,22/01/2020,24/01/2020,31/01/2020,N/A,"cough, dyspnea"
+221,30-39,male,Hong Kong,Hong Kong,China,22.38074,114.1324,19/01/2020,30/01/2020,01/02/2020,N/A,"cough, fever"
+222,30-39,female,"Shushan District, Hefei City",Anhui,China,31.82562,117.2001,24/01/2020,30/01/2020,31/01/2020,no,N/A
+223,30-39,male,"Yaohai District, Hefei City",Anhui,China,31.89544,117.3384,20/01/2020,23/01/2020,31/01/2020,no,"fever, pharyngeal discomfort"
+224,50-59,female,"Lujiang County, Hefei City",Anhui,China,31.26968,117.32,24/01/2020,29/01/2020,31/01/2020,yes,"chills, headache, fever"
+225,40-49,female,"Feidong County, Hefei City",Anhui,China,32.00123,117.5681,25/01/2020,30/01/2020,31/01/2020,no,"fever, sore throat, sputum"
+226,20-29,female,"Changfeng County, Hefei City",Anhui,China,32.2842,117.1614,28/01/2020,29/01/2020,31/01/2020,no,"cough, fever"
+227,30-39,male,Hefei City,Anhui,China,31.79444,117.3428,24/01/2020,28/01/2020,31/01/2020,yes,fever
+228,30-39,male,Hefei City,Anhui,China,31.79444,117.3428,30/01/2020,30/01/2020,31/01/2020,no,physical discomfort
+229,30-39,female,Hefei City,Anhui,China,31.79444,117.3428,30/01/2020,30/01/2020,31/01/2020,no,N/A
+230,30-39,male,"Chengguan District, Lanzhou City",Gansu,China,36.07809,103.8756,19/01/2020,30/01/2020,01/02/2020,yes,discomfort
+231,60-69,female,"Chengguan District, Lanzhou City",Gansu,China,36.07809,103.8756,24/01/2020,28/01/2020,01/02/2020,N/A,weakness
+232,30-39,male,"Weiyuan County, Dingxi City",Gansu,China,35.13411,104.1369,24/01/2020,28/01/2020,01/02/2020,N/A,fever
+233,60-69,male,Gannan Prefecture,Gansu,China,34.33256,102.7657,28/01/2020,30/01/2020,01/02/2020,N/A,fever; cough
+234,40-49,male,"Dalad Banner, Ordos City",Inner Mongolia,China,40.21311,109.8538,29/01/2020,31/01/2020,01/02/2020,no,"chest tightness, fever, nausea"
+235,70-79,male,Ho Chi Minh City,Thanh pho Ho Chi Minh,Vietnam,10.77845,106.693904,26/01/2020,31/01/2020,02/02/2020,no,respiratory symptoms
+236,20-29,female,"Hotel Ton Dan Street, Nha Trang",Khanh Hoa,Vietnam,12.237763,109.193574,18/01/2020,27/01/2020,31/01/2020,no,"cough, fever"
+237,20-29,female,London,Ontario,Canada,42.983611,-81.249722,24/01/2020,24/01/2020,31/01/2020,N/A,N/A
+238,20-29,female,Melbourne,Victoria,Australia,-37.8136,144.9631,27/01/2020,30/01/2020,01/02/2020,no,N/A
+239,20-29,male,Seoul,Seoul,South Korea,37.56667,126.9667,26/01/2020,29/01/2020,30/01/2020,no,"cough, fever"
+240,60-69,female,Gunsan,Jeollabuk-do,South Korea,35.983333,126.716667,21/01/2020,30/01/2020,31/01/2020,no,"cough, fever, muscle ache"
+241,20-29,female,Seoul,Seoul,South Korea,37.56667,126.9667,30/01/2020,31/01/2020,31/01/2020,N/A,N/A
+242,50-59,male,Seoul,Seoul,South Korea,37.56667,126.9667,29/01/2020,31/01/2020,31/01/2020,N/A,N/A
+243,20-29,male,Seoul,Seoul,South Korea,37.56667,126.9667,30/01/2020,31/01/2020,31/01/2020,N/A,N/A
+244,40-49,male,"Seoul National University, Bundang Hospital",Gyeonggi,South Korea,37.35132,127.1233,20/01/2020,30/01/2020,01/02/2020,N/A,N/A
+245,40-49,female,"Seoul National University, Bundang Hospital",Gyeonggi,South Korea,37.35132,127.1233,29/01/2020,02/02/2020,02/02/2020,N/A,N/A
+246,40-49,male,National Guard Capital Hospital,Seoul,South Korea,37.566667,126.966667,01/02/2020,01/02/2020,02/02/2020,N/A,N/A
+248,80-89,male,New Territories,Hong Kong,China,22.407,114.122,19/01/2020,30/01/2020,01/02/2020,no,"cough, fever"
+249,50-59,female,Beijing,Beijing,China,40.18535,116.4151,25/01/2020,30/01/2020,01/02/2020,N/A,N/A
+250,30-39,female,Beijing,Beijing,China,40.18535,116.4151,28/01/2020,30/01/2020,01/02/2020,N/A,N/A
+251,50-59,male,Beijing,Beijing,China,40.18535,116.4151,25/01/2020,30/01/2020,01/02/2020,N/A,N/A
+252,50-59,female,Beijing,Beijing,China,40.18535,116.4151,30/01/2020,31/01/2020,01/02/2020,N/A,N/A
+253,20-29,female,Beijing,Beijing,China,40.18535,116.4151,30/01/2020,30/01/2020,01/02/2020,N/A,N/A
+254,30-39,male,Beijing,Beijing,China,40.18535,116.4151,30/01/2020,30/01/2020,01/02/2020,N/A,N/A
+255,70-79,male,Beijing,Beijing,China,40.18535,116.4151,25/01/2020,27/01/2020,01/02/2020,N/A,N/A
+256,10-19,male,Beijing,Beijing,China,40.18535,116.4151,29/01/2020,29/01/2020,01/02/2020,N/A,N/A
+257,30-39,female,Beijing,Beijing,China,40.18535,116.4151,11/01/2020,31/01/2020,01/02/2020,N/A,N/A
+258,60-69,female,Beijing,Beijing,China,40.18535,116.4151,26/01/2020,01/02/2020,01/02/2020,N/A,N/A
+259,50-59,male,Beijing,Beijing,China,40.18535,116.4151,27/01/2020,30/01/2020,01/02/2020,N/A,N/A
+260,50-59,female,Beijing,Beijing,China,40.18535,116.4151,23/01/2020,30/01/2020,01/02/2020,N/A,N/A
+261,20-29,female,Beijing,Beijing,China,40.18535,116.4151,28/01/2020,31/01/2020,01/02/2020,N/A,N/A
+262,60-69,male,Beijing,Beijing,China,40.18535,116.4151,24/01/2020,25/01/2020,01/02/2020,N/A,N/A
+263,30-39,male,Beijing,Beijing,China,40.18535,116.4151,29/01/2020,01/02/2020,01/02/2020,N/A,N/A
+264,40-49,female,Beijing,Beijing,China,40.18535,116.4151,30/01/2020,30/01/2020,01/02/2020,N/A,N/A
+265,20-29,male,Beijing,Beijing,China,40.18535,116.4151,30/01/2020,31/01/2020,01/02/2020,N/A,N/A
+266,40-49,female,Beijing,Beijing,China,40.18535,116.4151,31/01/2020,01/02/2020,01/02/2020,N/A,N/A
+267,70-79,male,Beijing,Beijing,China,40.18535,116.4151,27/01/2020,31/01/2020,01/02/2020,N/A,N/A
+268,40-49,female,Beijing,Beijing,China,40.18535,116.4151,30/01/2020,31/01/2020,01/02/2020,N/A,N/A
+269,60-69,male,Beijing,Beijing,China,40.18535,116.4151,28/01/2020,28/01/2020,01/02/2020,N/A,N/A
+270,40-49,male,Beijing,Beijing,China,40.18535,116.4151,29/01/2020,31/01/2020,01/02/2020,N/A,N/A
+271,30-39,female,Beijing,Beijing,China,40.18535,116.4151,30/01/2020,30/01/2020,01/02/2020,N/A,N/A
+272,60-69,male,"Qishan County, Baoji City",Shaanxi,China,34.40641,107.6779,29/01/2020,30/01/2020,02/02/2020,no,N/A
+273,70-79,male,"Wangyi District, Tongchuan City",Shaanxi,China,35.03984,109.0673,27/01/2020,25/01/2020,02/02/2020,no,N/A
+274,60-69,female,"Wugong County, Xianyang City",Shaanxi,China,34.31159,108.1799,24/01/2020,31/01/2020,02/02/2020,no,N/A
+275,0-9,female,"Hanbin District, Ankang City",Shaanxi,China,32.81089,108.8847,22/01/2020,27/01/2020,02/02/2020,no,N/A
+276,60-69,female,Hanzhong City,Shaanxi,China,33.0928,107.1014,28/01/2020,31/01/2020,02/02/2020,no,N/A
+277,30-39,male,Xi'an City,Shaanxi,China,34.10727,108.7872,28/01/2020,29/01/2020,02/02/2020,yes,N/A
+278,70-79,male,Xi'an City,Shaanxi,China,34.10727,108.7872,29/01/2020,27/01/2020,02/02/2020,yes,N/A
+279,70-79,female,Xi'an City,Shaanxi,China,34.10727,108.7872,31/01/2020,27/01/2020,01/02/2020,yes,N/A
+280,30-39,female,"Beilin District, Xi'an City",Shaanxi,China,34.24815,108.9538,22/01/2020,22/01/2020,02/02/2020,no,N/A
+281,50-59,female,"Xincheng District, Xi'an City",Shaanxi,China,34.27348,108.9863,31/01/2020,01/02/2020,02/02/2020,no,N/A
+282,30-39,male,"Gaoling County, Xi'an City",Shaanxi,China,34.50897,109.0626,26/01/2020,28/01/2020,02/02/2020,yes,N/A
+283,50-59,female,"Baqiao District, Xi'an City",Shaanxi,China,34.3024,109.0889,22/01/2020,29/01/2020,02/02/2020,no,N/A
+284,20-29,male,"Chengguan District, Lanzhou City",Gansu,China,36.07809,103.8756,26/01/2020,30/01/2020,02/02/2020,no,"cough, fever"
+285,70-79,female,"Xigu District, Lanzhou City",Gansu,China,36.12968,103.519,28/01/2020,31/01/2020,02/02/2020,no,fever
+286,40-49,male,"Xigu District, Lanzhou City",Gansu,China,36.12968,103.519,23/01/2020,26/01/2020,02/02/2020,no,"cough, fever, sputum"
+287,30-39,male,"Ningxian County, Qingyang City",Gansu,China,35.56591,108.1031,24/01/2020,28/01/2020,02/02/2020,yes,"cough, fever"
+288,30-39,female,"Linxia City, Linxia Prefecture",Gansu,China,35.58106,103.1937,27/01/2020,01/02/2020,02/02/2020,no,"cough, fever"
+289,20-29,female,"Lixian County, Longnan City",Gansu,China,34.10804,105.0565,26/01/2020,26/01/2020,02/02/2020,no,N/A
+290,60-69,female,"Maiji District, Tianshui City",Gansu,China,34.415,106.1453,23/01/2020,30/01/2020,02/02/2020,no,"cough, sputum"
+291,50-59,male,"Maiji District, Tianshui City",Gansu,China,34.415,106.1453,24/01/2020,30/01/2020,02/02/2020,yes,"cough, sore throat, sputum"
+292,30-39,female,"Maiji District, Tianshui City",Gansu,China,34.415,106.1453,30/01/2020,30/01/2020,02/02/2020,yes,fever
+293,40-49,female,"Qinzhou District, Tianshui City",Gansu,China,34.40163,105.6275,28/01/2020,30/01/2020,02/02/2020,no,"chills, fatigue"
+294,70-79,female,"Block 1, Site 11, Whampao Garden",Hong Kong,China,22.3044127,114.1870613,01/02/2020,01/02/2020,02/02/2020,no,cough
+295,40-49,male,Fangchenggang City,Guangxi,China,21.88401,107.9967,26/01/2020,31/01/2020,02/02/2020,N/A,fever; dry cough; fatigue
+296,50-59,female,Xi'an City,Shaanxi,China,34.10727,108.7872,23/01/2020,25/01/2020,03/02/2020,yes,N/A
+297,40-49,female,Xi'an City,Shaanxi,China,34.10727,108.7872,25/01/2020,28/01/2020,03/02/2020,N/A,N/A
+298,50-59,male,Xi'an City,Shaanxi,China,34.10727,108.7872,30/01/2020,29/01/2020,03/02/2020,N/A,N/A
+299,50-59,male,Xi'an City,Shaanxi,China,34.10727,108.7872,31/01/2020,31/01/2020,03/02/2020,yes,N/A
+300,30-39,female,Xi'an City,Shaanxi,China,34.10727,108.7872,25/01/2020,31/01/2020,03/02/2020,N/A,N/A
+301,30-39,female,Xi'an City,Shaanxi,China,34.10727,108.7872,28/01/2020,28/01/2020,03/02/2020,N/A,N/A
+302,20-29,male,Xi'an City,Shaanxi,China,34.10727,108.7872,27/01/2020,27/01/2020,03/02/2020,N/A,N/A
+303,50-59,female,Baoji City,Shaanxi,China,34.38244,107.2001,29/01/2020,30/01/2020,03/02/2020,N/A,N/A
+304,70-79,female,Tongchuan City,Shaanxi,China,35.19603,109.0307,27/01/2020,27/01/2020,03/02/2020,N/A,N/A
+305,30-39,male,Weinan City,Shaanxi,China,34.95553,109.8585,29/01/2020,30/01/2020,03/02/2020,yes,N/A
+306,30-39,female,Tianjin City,Tianjin,China,39.29713,117.3333,01/02/2020,01/02/2020,03/02/2020,N/A,N/A
+307,40-49,female,Tianjin City,Tianjin,China,39.29713,117.3333,31/01/2020,02/02/2020,03/02/2020,N/A,fever
+308,60-69,female,Tianjin City,Tianjin,China,39.29713,117.3333,02/02/2020,02/02/2020,03/02/2020,N/A,fever
+309,30-39,female,Tianjin City,Tianjin,China,39.29713,117.3333,27/01/2020,01/02/2020,03/02/2020,N/A,"cough, fever"
+310,30-39,female,Tianjin City,Tianjin,China,39.29713,117.3333,30/01/2020,31/01/2020,03/02/2020,N/A,fever
+311,40-49,female,Tianjin City,Tianjin,China,39.29713,117.3333,31/01/2020,31/01/2020,03/02/2020,N/A,"cough, fever"
+312,40-49,male,Tianjin City,Tianjin,China,39.29713,117.3333,27/01/2020,27/01/2020,03/02/2020,yes,fever
+314,40-49,female,Chonnam National University Hospital,Gwangju,South Korea,35.142077,126.921668,25/01/2020,27/01/2020,04/02/2020,N/A,"cough, fever, runny nose"
+315,20-29,male,Tianjin City,Tianjin,China,39.29713,117.3333,01/02/2020,02/02/2020,03/02/2020,N/A,fever
+316,60-69,female,Tianjin City,Tianjin,China,39.29713,117.3333,26/01/2020,02/02/2020,03/02/2020,N/A,fever
+317,0-9,male,Tianjin City,Tianjin,China,39.29713,117.3333,02/02/2020,02/02/2020,03/02/2020,yes,"cough, fever"
+318,60-69,male,Tianjin City,Tianjin,China,39.29713,117.3333,25/01/2020,25/01/2020,03/02/2020,N/A,fever
+319,50-59,male,"High Tech Zone, Weibin District, Baoji City",Shaanxi,China,34.345903,107.2712232,26/01/2020,02/02/2020,04/02/2020,no,N/A
+320,60-69,male,"Danfeng County, Shangluo City",Shaanxi,China,33.68015,110.4319,26/01/2020,02/02/2020,04/02/2020,no,N/A
+321,50-59,male,"Qishan County, Baoji City",Shaanxi,China,34.40641,107.6779,21/01/2020,31/01/2020,04/02/2020,N/A,N/A
+322,40-49,male,Shangluo City,Shaanxi,China,33.6493,109.9016,27/01/2020,02/02/2020,04/02/2020,N/A,N/A
+323,30-39,male,Xianyang City,Shaanxi,China,34.78867,108.3897,27/01/2020,01/02/2020,04/02/2020,no,fever
+324,40-49,female,Xianyang City,Shaanxi,China,34.78867,108.3897,25/01/2020,01/02/2020,04/02/2020,no,N/A
+325,50-59,male,"Baqiao District, Xi'an City",Shaanxi,China,34.3024,109.0889,25/01/2020,31/01/2020,04/02/2020,no,N/A
+326,30-39,male,"Baqiao District, Xi'an City",Shaanxi,China,34.3024,109.0889,22/01/2020,28/01/2020,04/02/2020,no,N/A
+327,40-49,male,"Yangling District, Xianyang City",Shaanxi,China,34.2851,108.0477,29/01/2020,01/02/2020,04/02/2020,no,N/A
+328,40-49,female,"Yanta District, Xi'an City",Shaanxi,China,34.20667,108.9416,31/01/2020,02/02/2020,04/02/2020,no,N/A
+329,40-49,male,"Zhenba County, Hanzhong City",Shaanxi,China,32.51348,107.8716,31/01/2020,31/01/2020,04/02/2020,no,N/A
+330,20-29,male,To Kwa Wan,Hong Kong,China,22.319558,114.187767,28/01/2020,03/02/2020,04/02/2020,no,"cough, diarrhoea, runny nose"
+331,50-59,female,Baodi District,Tianjin,China,39.60828,117.4002,02/02/2020,05/02/2020,07/02/2020,no,"cough, high fever, myalgia"
+332,60-69,male,Baodi District,Tianjin,China,39.60828,117.4002,04/02/2020,05/02/2020,07/02/2020,no,"fever, myalgia"
+333,40-49,male,"Beilin District, Xi'an City",Shaanxi,China,34.24815,108.9538,31/01/2020,03/02/2020,06/02/2020,N/A,N/A
+334,40-49,female,"Son Loi commune, Binh Xuyen District",Vinh Phuc,Vietnam,21.276162,105.678812,03/02/2020,04/02/2020,06/02/2020,N/A,cough
+335,60-69,female,Kowloon,Hong Kong,China,22.319751,114.18612,23/01/2020,01/02/2020,04/02/2020,no,"cough, fever, shortness of breath"
+336,70-79,female,"Chengguan District, Lanzhou City",Gansu,China,36.07809,103.8756,23/01/2020,26/01/2020,03/02/2020,no,N/A
+337,60-69,male,"Chengguan District, Lanzhou City",Gansu,China,36.07809,103.8756,28/01/2020,28/01/2020,04/02/2020,N/A,fatigue
+338,60-69,male,"Dingbian County, Yulin City",Shaanxi,China,37.37923,107.7436,28/01/2020,04/02/2020,06/02/2020,N/A,N/A
+339,50-59,female,Fangchenggang City,Guangxi,China,21.88401,107.9967,30/01/2020,01/02/2020,04/02/2020,N/A,fever;sore throat; fatigue; diarrhea
+340,60-69,male,Fangchenggang City,Guangxi,China,21.88401,107.9967,29/01/2020,01/02/2020,04/02/2020,N/A,fever; fatigue
+341,60-69,female,Fangchenggang City,Guangxi,China,21.88401,107.9967,02/02/2020,03/02/2020,05/02/2020,yes,fever; sore throat;fatigue;vomiting
+342,40-49,female,Fangchenggang City,Guangxi,China,21.88401,107.9967,30/01/2020,03/02/2020,05/02/2020,N/A,cough
+343,50-59,female,"Feixi County, Hefei City",Anhui,China,31.72762,117.0201,03/02/2020,05/02/2020,05/02/2020,no,"chest tightness, fever"
+344,40-49,female,"Yaohai District, Hefei City",Anhui,China,31.89544,117.3384,30/01/2020,03/02/2020,05/02/2020,no,"fever, joint pain, muscle soreness"
+345,40-49,female,"Xinzhan District, Hefei City",Anhui,China,31.8947345,117.3260293,03/02/2020,04/02/2020,05/02/2020,no,fever
+346,30-39,male,"Shushan District, Hefei City",Anhui,China,31.82562,117.2001,29/01/2020,03/02/2020,05/02/2020,no,fever
+347,20-29,male,"Shushan District, Hefei City",Anhui,China,31.82562,117.2001,01/02/2020,04/02/2020,05/02/2020,no,fever
+348,50-59,male,"Lujiang County, Hefei City",Anhui,China,31.26968,117.32,02/02/2020,03/02/2020,05/02/2020,yes,"cough, fever"
+349,30-39,male,"Luyang District, Hefei City",Anhui,China,31.92046,117.1894,24/01/2020,03/02/2020,05/02/2020,no,"chills, fever"
+350,20-29,female,"Xinzhan District, Hefei City",Anhui,China,31.8947345,117.3260293,29/01/2020,02/02/2020,05/02/2020,no,"cough, fever"
+351,70-79,female,"Xinzhan District, Hefei City",Anhui,China,31.8947345,117.3260293,22/01/2020,30/01/2020,05/02/2020,no,"chest pain, nasal congestion"
+352,30-39,female,"Xinzhan District, Hefei City",Anhui,China,31.8947345,117.3260293,30/01/2020,03/02/2020,05/02/2020,no,"cough, muscle soreness, sweating"
+353,30-39,male,"Luyang District, Hefei City",Anhui,China,31.92046,117.1894,26/01/2020,01/02/2020,05/02/2020,no,"cough, fever"
+354,60-69,male,"Honggu District, Lanzhou City",Gansu,China,36.27566,103.1088,23/01/2020,02/02/2020,04/02/2020,N/A,N/A
+355,80-89,female,"Lianhu District, Xi'an City",Shaanxi,China,34.27251,108.8962,02/02/2020,02/02/2020,06/02/2020,N/A,N/A
+356,60-69,female,"Lianhu District, Xi'an City",Shaanxi,China,34.27251,108.8962,27/01/2020,03/02/2020,06/02/2020,N/A,N/A
+357,50-59,female,"Longxi County, Dingxi City",Gansu,China,35.10665,104.6236,21/01/2020,26/01/2020,03/02/2020,N/A,N/A
+358,50-59,female,"Maiji District, Tianshui City",Gansu,China,34.415,106.1453,29/01/2020,01/02/2020,03/02/2020,N/A,N/A
+359,20-29,female,Qujing City,Yunnan,China,25.70936,103.9368,26/01/2020,31/01/2020,04/02/2020,no,fever
+360,50-59,male,"Weiyang District, Xi'an City",Shaanxi,China,34.34604,108.9099,03/02/2020,03/02/2020,05/02/2020,no,N/A
+361,70-79,female,"Weiyang District, Xi'an City",Shaanxi,China,34.34604,108.9099,31/01/2020,31/01/2020,05/02/2020,N/A,N/A
+362,40-49,male,"Weiyang District, Xi'an City",Shaanxi,China,34.34604,108.9099,29/01/2020,03/02/2020,06/02/2020,N/A,N/A
+363,60-69,male,"Xincheng District, Xi'an City",Shaanxi,China,34.27348,108.9863,01/02/2020,01/02/2020,05/02/2020,no,N/A
+364,40-49,male,"Xincheng District, Xi'an City",Shaanxi,China,34.27348,108.9863,23/01/2020,25/01/2020,05/02/2020,N/A,N/A
+365,40-49,female,"Xincheng District, Xi'an City",Shaanxi,China,34.27348,108.9863,28/01/2020,28/01/2020,05/02/2020,N/A,N/A
+366,60-69,female,"Baqiao District, Xi'an City",Shaanxi,China,34.3024,109.0889,29/01/2020,03/02/2020,05/02/2020,no,N/A
+367,30-39,male,"Xixian New District, Xi'an City",Shaanxi,China,34.316191,108.85,24/01/2020,31/01/2020,05/02/2020,no,N/A
+368,50-59,female,"Yanta District, Xi'an City",Shaanxi,China,34.20667,108.9416,01/02/2020,01/02/2020,05/02/2020,no,N/A
+369,60-69,male,Lam Tin,Hong Kong,China,22.307989,114.234404,22/01/2020,30/01/2020,04/02/2020,no,"fever, myalgia, shortness of breath"
+370,60-69,female,"Zhenba County, Hanzhong City",Shaanxi,China,32.51348,107.8716,27/01/2020,28/01/2020,06/02/2020,N/A,N/A
+376,20-29,female,Gwangju 21st Century Hospital,Seoul,South Korea,37.485159,127.015291,27/01/2020,27/01/2020,05/02/2020,N/A,N/A
+382,60-69,male,Xi'an City,Shaanxi,China,34.10727,108.7872,03/02/2020,03/02/2020,07/02/2020,N/A,N/A
+383,20-29,male,Xi'an City,Shaanxi,China,34.10727,108.7872,28/01/2020,29/01/2020,07/02/2020,N/A,N/A
+384,60-69,female,Xi'an City,Shaanxi,China,34.10727,108.7872,31/01/2020,01/02/2020,07/02/2020,N/A,N/A
+385,60-69,male,Xi'an City,Shaanxi,China,34.10727,108.7872,31/01/2020,01/02/2020,07/02/2020,N/A,N/A
+386,30-39,male,Xi'an City,Shaanxi,China,34.10727,108.7872,03/02/2020,05/02/2020,07/02/2020,N/A,N/A
+387,70-79,male,Baoji City,Shaanxi,China,34.38244,107.2001,03/02/2020,03/02/2020,07/02/2020,N/A,N/A
+388,20-29,female,Tongchuan City,Shaanxi,China,35.19603,109.0307,28/01/2020,03/02/2020,07/02/2020,N/A,N/A
+389,40-49,male,Hanzhong City,Shaanxi,China,33.0928,107.1014,30/01/2020,31/01/2020,07/02/2020,N/A,N/A
+390,60-69,male,Zunyi City,Guizhou,China,28.17143,107.0848,31/01/2020,03/02/2020,07/02/2020,no,"nausea, vomiting"
+391,60-69,female,Nagoya City,Aichi Prefecture,Japan,35.18333,136.9,13/02/2020,14/02/2020,15/02/2020,no,"fever, headache"
+392,60-69,male,Owariasahi City,Aichi Prefecture,Japan,35.2188941,136.9996761,17/02/2020,18/02/2020,18/02/2020,N/A,"cough, fever"
+394,40-49,female,"Longxi County, Dingxi City",Gansu,China,35.10665,104.6236,28/01/2020,04/02/2020,05/02/2020,N/A,"fever, cough"
+395,20-29,female,"Longxi County, Dingxi City",Gansu,China,35.10665,104.6236,01/02/2020,04/02/2020,05/02/2020,N/A,"fever, cough"
+396,30-39,male,"Baiyin District, Baiyin City",Gansu,China,36.56493,104.1535,24/01/2020,29/01/2020,05/02/2020,N/A,"fever, dry throat, sore throat"
+397,20-29,male,"Ningxian County, Qingyang City",Gansu,China,35.56591,108.1031,01/02/2020,01/02/2020,05/02/2020,N/A,fever; runny nose
+398,50-59,female,"Longxi County, Dingxi City",Gansu,China,35.10665,104.6236,21/01/2020,04/02/2020,07/02/2020,N/A,dry throat; sore throat; fatigue
+399,20-29,female,"Longxi County, Dingxi City",Gansu,China,35.10665,104.6236,24/01/2020,04/02/2020,07/02/2020,N/A,headache; dry mouth
+400,30-39,female,"Longxi County, Dingxi City",Gansu,China,35.10665,104.6236,21/01/2020,04/02/2020,07/02/2020,N/A,fever; dry mouth; throat discomfort
+401,60-69,male,"Maiji District, Tianshui City",Gansu,China,34.415,106.1453,26/01/2020,29/01/2020,08/02/2020,N/A,N/A
+402,50-59,female,"Maiji District, Tianshui City",Gansu,China,34.415,106.1453,29/01/2020,31/01/2020,08/02/2020,N/A,pharyngeal discomfort
+403,20-29,female,"Huating County, Pingliang City",Gansu,China,35.20198,106.5993,01/02/2020,04/02/2020,08/02/2020,N/A,fever
+404,0-9,female,"Huating County, Pingliang City",Gansu,China,35.20198,106.5993,30/01/2020,07/02/2020,08/02/2020,N/A,diarrhea
+405,40-49,female,"Xigu District, Lanzhou City",Gansu,China,36.12968,103.519,05/02/2020,07/02/2020,08/02/2020,N/A,cough; throat discomfort
+406,50-59,female,"Huating County, Pingliang City",Gansu,China,35.20198,106.5993,07/02/2020,07/02/2020,09/02/2020,N/A,N/A
+407,30-39,female,"Huating County, Pingliang City",Gansu,China,35.20198,106.5993,29/01/2020,07/02/2020,09/02/2020,N/A,Pharyngeal dryness
+408,20-29,male,"Zhuanglang County, Pingliang City",Gansu,China,35.25054,106.0543,06/02/2020,08/02/2020,09/02/2020,yes,cough; sputum; fever
+409,20-29,female,"Qingcheng County, Qingyang City",Gansu,China,36.04074,107.6714,03/02/2020,06/02/2020,09/02/2020,N/A,fever
+410,50-59,female,Gannan Prefecture,Gansu,China,34.33256,102.7657,04/02/2020,11/02/2020,12/02/2020,N/A,dry throat; dry cough
+411,30-39,female,"Huating County, Pingliang City",Gansu,China,35.20198,106.5993,10/02/2020,11/02/2020,13/02/2020,N/A,"chest pain, cough"
+412,50-59,male,"Chengguan District, Lanzhou City",Gansu,China,36.07809,103.8756,07/02/2020,14/02/2020,16/02/2020,N/A,"cough, fever"
+413,30-39,male,"Jingyuan County, Baiyin City",Gansu,China,36.72572,104.7303,31/01/2020,05/02/2020,06/02/2020,N/A,N/A
+414,40-49,female,"Xigu District, Lanzhou City",Gansu,China,36.12968,103.519,01/02/2020,01/02/2020,06/02/2020,N/A,N/A
+415,40-49,male,"Qilihe District, Lanzhou City",Gansu,China,35.96467,103.7711,30/01/2020,01/02/2020,06/02/2020,N/A,N/A
+416,20-29,male,"Xigu District, Lanzhou City",Gansu,China,36.12968,103.519,07/02/2020,07/02/2020,09/02/2020,N/A,N/A
+417,40-49,male,"Xigu District, Lanzhou City",Gansu,China,36.12968,103.519,06/02/2020,06/02/2020,09/02/2020,N/A,N/A
+418,50-59,male,"Huating County, Pingliang City",Gansu,China,35.20198,106.5993,10/02/2020,07/02/2020,10/02/2020,N/A,N/A
+419,60-69,male,Fangchenggang City,Guangxi,China,21.88401,107.9967,28/01/2020,04/02/2020,07/02/2020,N/A,fever; cough; fatigue; nausea
+420,60-69,male,Fangchenggang City,Guangxi,China,21.88401,107.9967,13/01/2020,28/01/2020,30/01/2020,N/A,fever; cough
+421,30-39,female,Fangchenggang City,Guangxi,China,21.88401,107.9967,28/01/2020,28/01/2020,30/01/2020,yes,fever; fatigue
+422,50-59,male,Tsing Yi,Hong Kong,China,22.3445126,114.0633117,03/02/2020,10/02/2020,12/02/2020,no,fever
+424,60-69,female,Quarry Bay,Hong Kong,China,22.2859106,114.2068678,31/01/2020,12/02/2020,13/02/2020,N/A,"chills, cough, fever"
+425,30-39,male,Wan Chai,Hong Kong,China,22.2773596,114.1652481,08/02/2020,12/02/2020,13/02/2020,N/A,fever
+426,40-49,male,"Shuangliao City, Siping City",Jilin,China,43.75948,123.6956,01/02/2020,30/01/2020,13/02/2020,N/A,N/A
+427,50-59,male,Yokohama Port,Kanagawa Prefecture,Japan,35.45085,139.6651,14/02/2020,17/02/2020,16/02/2020,N/A,N/A
+428,60-69,male,Yokohama,Kanagawa Prefecture,Japan,35.45085,139.6651,03/02/2020,13/02/2020,18/02/2020,N/A,"fever, severe pneumonia"
+432,50-59,female,"Son Loi commune, Binh Xuyen District",Vinh Phuc,Vietnam,21.276162,105.678812,04/02/2020,04/02/2020,09/02/2020,no,"fever, headache, runny nose"
+433,50-59,male,Yuasa-cho,Wakayama Prefecture,Japan,34.0351325,135.1498905,04/04/2020,14/02/2020,15/02/2020,no,fever (38 ° C)
+434,30-39,male,Zhaotong City,Yunnan,China,27.65652,104.0039,05/02/2020,05/02/2020,08/02/2020,N/A,N/A
+435,0-9,male,Zhaotong City,Yunnan,China,27.65652,104.0039,05/02/2020,05/02/2020,08/02/2020,N/A,N/A
+436,40-49,male,Kunming City,Yunnan,China,25.39236,102.8739,04/02/2020,05/02/2020,09/02/2020,N/A,N/A
+437,60-69,female,Kunming City,Yunnan,China,25.39236,102.8739,28/01/2020,07/02/2020,10/02/2020,N/A,cough
+438,30-39,female,Kunming City,Yunnan,China,25.39236,102.8739,04/02/2020,05/02/2020,10/02/2020,N/A,N/A
+439,40-49,male,Dali Prefecture,Yunnan,China,25.73038,100.037,21/01/2020,07/02/2020,10/02/2020,N/A,Sore throat
+440,40-49,female,Kunming City,Yunnan,China,25.39236,102.8739,28/01/2020,08/02/2020,13/02/2020,N/A,N/A
+442,30-39,female,Kuala Lumpur,Wilayah Persekutuan Kuala Lumpur,Malaysia,3.139,101.6869,12/02/2020,13/02/2020,13/02/2020,N/A,"cough, fever"
+450,50-59,female,National Medical Center,Seoul,South Korea,37.56767,127.0057,03/02/2020,05/02/2020,06/02/2020,N/A,N/A
+452,60-69,male,Haikou City,Hainan,China,19.83166,110.4222,16/02/2020,16/02/2020,17/02/2020,N/A,N/A
+453,70-79,male,Chengmai County,Hainan,China,19.69168,109.9864,29/01/2020,10/02/2020,14/02/2020,N/A,N/A
+454,20-29,female,Kumamoto City,Kumamoto,Japan,32.8203606,130.4201224,18/02/2020,20/02/2020,21/02/2020,N/A,fever
+456,70-79,male,Nagoya City,Aichi Prefecture,Japan,35.18333,136.9,19/02/2020,20/02/2020,21/02/2020,no,N/A
+457,20-29,female,Nagoya City,Aichi Prefecture,Japan,35.18333,136.9,20/02/2020,21/02/2020,21/02/2020,no,N/A
+458,60-69,male,Katsuura,Chiba Prefecture,Japan,35.1795407,140.1961996,06/02/2020,21/02/2020,21/02/2020,no,N/A
+461,0-9,male,Nakafurano,Hokkaido,Japan,43.4115473,142.3833135,15/02/2020,19/02/2020,21/02/2020,N/A,fever 37.7?
+462,0-9,male,Nakafurano,Hokkaido,Japan,43.4115473,142.3833135,18/02/2020,19/02/2020,21/02/2020,N/A,fever 37.7?
+463,80-89,male,Sagamihara City,Kanagawa Prefecture,Japan,35.56667,139.3667,27/01/2020,19/02/2020,21/02/2020,N/A,anorexia
+464,60-69,female,Chiba City,Chiba Prefecture,Japan,35.6040591,140.0212538,12/02/2020,19/02/2020,22/02/2020,no,"nausea, cough, pneumonia, fever"
+467,60-69,male,Nagoya City,Aichi Prefecture,Japan,35.18333,136.9,19/02/2020,21/02/2020,22/02/2020,N/A,fever
+468,60-69,male,Nagoya City,Aichi Prefecture,Japan,35.18333,136.9,19/02/2020,21/02/2020,22/02/2020,N/A,fever
+469,60-69,female,Nagoya City,Aichi Prefecture,Japan,35.18333,136.9,19/02/2020,21/02/2020,22/02/2020,N/A,fever
+470,40-49,female,Nagoya City,Aichi Prefecture,Japan,35.18333,136.9,19/02/2020,21/02/2020,22/02/2020,N/A,fever
+471,90-99,female,Tin Hau,Hong Kong,China,22.2826304,114.1881211,13/02/2020,22/02/2020,22/02/2020,no,"fever, cough"
+472,10-19,male,Fangchenggang City,Guangxi,China,21.88401,107.9967,07/02/2020,08/02/2020,09/02/2020,N/A,fever
+473,60-69,male,Fangchenggang City,Guangxi,China,21.88401,107.9967,25/01/2020,29/01/2020,03/02/2020,yes,fever; fatigue
+474,50-59,female,Fangchenggang City,Guangxi,China,21.88401,107.9967,16/01/2020,29/01/2020,03/02/2020,N/A,chest tightness; fatigue
+475,40-49,female,Fangchenggang City,Guangxi,China,21.88401,107.9967,22/01/2020,27/01/2020,28/01/2020,N/A,cough; fever
+476,50-59,female,Fangchenggang City,Guangxi,China,21.88401,107.9967,22/01/2020,26/01/2020,28/01/2020,N/A,fever; nasal congestion; runny nose; sore throat; cough
+477,20-29,female,Jincheng City,Shanxi,China,35.61116,112.7069,18/02/2020,18/02/2020,18/02/2020,N/A,fever
+478,0-9,female,Lanzhou City,Gansu,China,36.35126,103.6554,28/01/2020,28/01/2020,31/01/2020,N/A,fever
+479,50-59,male,"Chengguan District, Lanzhou City",Gansu,China,36.07809,103.8756,07/02/2020,14/02/2020,16/02/2020,N/A,cough; sputum; fever
+480,50-59,female,"Qilihe District, Lanzhou City",Gansu,China,35.96467,103.7711,25/01/2020,27/01/2020,30/01/2020,N/A,dry cough
+481,40-49,male,"Chengguan District, Lanzhou City",Gansu,China,36.07809,103.8756,16/01/2020,27/01/2020,30/01/2020,N/A,cough; sore body; cold
+482,20-29,female,Linxia Prefecture,Gansu,China,35.63012,103.2798,17/01/2020,24/01/2020,24/01/2020,yes,N/A
+486,20-29,Female,Hong Kong,Hong Kong,China,22.38074,114.1324,12/02/2020,27/02/2020,27/02/2020,no,fever
+487,10-19,Male,Hong Kong,Hong Kong,China,22.38074,114.1324,17/02/2020,27/02/2020,27/02/2020,no,cough
+488,80-89,Male,Hong Kong,Hong Kong,China,22.38074,114.1324,25/02/2020,25/02/2020,25/02/2020,no,fever
+489,30-39,Male,Hong Kong,Hong Kong,China,22.38074,114.1324,20/02/2020,24/02/2020,24/02/2020,no,"fever, cough"
+490,50-59,Female,Hong Kong,Hong Kong,China,22.38074,114.1324,17/02/2020,24/02/2020,24/02/2020,no,cough
+491,60-69,Female,Hong Kong,Hong Kong,China,22.38074,114.1324,12/02/2020,24/02/2020,24/02/2020,no,cough
+495,70-79,female,Shinhidaka,Hokkaido,Japan,42.4384206,142.3325668,17/02/2020,24/02/2020,26/02/2020,N/A,"fever (38-39 ° C), malaise"
+497,30-39,male,Okhotsk,Hokkaido,Japan,44.026559,144.260889,17/02/2020,24/02/2020,27/02/2020,N/A,"sore throat, fever (38-39 ?)"
